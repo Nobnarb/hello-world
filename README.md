@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I love turtles, bob ross, and water. I hate Gunonu and dragons.
